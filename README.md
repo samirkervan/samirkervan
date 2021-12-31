@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samirkervan
-- 👀 I’m interested in Coding
+- 👀 I’m interested in FrontEnd Developing and UI&UX
 - 🌱 I’m currently studying IT and Telecommunications
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on UI&UX Projects
 - 📫 How to reach me / instagram @samirkervan / email samir.kervan04@gmial.com
 
 <!---
